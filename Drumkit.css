@@ -1,0 +1,171 @@
+body {
+    background-image: url(Background.jpg);
+    background-size: 400px 1020px;
+}
+
+#drumset{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 50px;
+    width: 800px;
+    height: 150px;
+    
+}
+
+#drum1 {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 226px;
+    float: left;
+    height: 127px;
+    width: 140px;
+    color: black;
+    font-size: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+#drum2 {
+    position: absolute;
+    margin-top: 273px;
+    margin-left: 494px;
+    float: left;
+    height: 157px;
+    width: 163px;
+    color: black;
+    font-size: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+#drum3 {
+    position: absolute;
+    float: left;
+    height: 150px;
+    width: 155px;
+    margin-top: 15px;
+    margin-left: 425px;
+    background-color: transparent;
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+#drum4 {
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 233px;
+    float: left;
+    height: 150px;
+    width: 157px;
+    background-color: transparent;
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+#basedrum{
+    position: absolute;
+    margin-left: 381px;
+    margin-top: 250px;
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    background-color: black;
+    border-color: white;
+    color: gray;
+}
+
+#thimble1 {
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 50px;
+    float: left;
+    height: 168px;
+    width: 175px;
+    color: black;
+    font-size: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+
+}
+
+#thimble2 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 649px;
+    float: left;
+    height: 125px;
+    width: 129px;
+    color: black;
+    font-size: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+#thimble3 {
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 600px;
+    float: left;
+    height: 185px;
+    width: 193px;
+    color: black;
+    font-size: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+#thimble4 {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 9px;
+    float: left;
+    height: 180px;
+    width: 190px;
+    color: black;
+    font-size: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+#record {
+    position: absolute;
+    float: left;
+    margin-top: 408px;
+    margin-left: 766px;
+    background-color: transparent;
+    height: 36px;
+    width: 30px;
+}
+
+#play{
+    position: absolute;
+    float: left;
+    margin-top: 411px;
+    margin-left: 730px;
+    background-color: transparent;
+    height: 30px;
+    width: 30px;
+}
+
+#reset{
+    position: absolute;
+    float: left;
+    margin-top: 411px;
+    margin-left: 696px;
+    background-color: transparent;
+    height: 30px;
+    width: 30px;
+}
+
+#options{
+    position: absolute;
+    float: left;
+    margin-top: 391px;
+    margin-left: 10px;
+    background-color: transparent;
+    height: 49px;
+    width: 49px;
+    border-radius: 50%;
+}
