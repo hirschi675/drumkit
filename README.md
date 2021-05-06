@@ -1,0 +1,1 @@
+This is an app that I made in about 2 hours that allows you to play a drum and I used free sounds online to play those sounds.  You can click or push the buttons that are listed it's just for having fun and it was cool to try out the different inputs.  I also put a secret funny sound but you have to uncomment it from the code.
